@@ -3,7 +3,7 @@
 Elena Pozdnyakova – Product Owner & Data-Driven Business Analyst
 Hi there! 👋 I'm Elena Pozdnyakova, a product and data-driven professional with expertise in digital product management, e-commerce (food-tech), and business process analytics.
 
-#Core Competencies
+#Core Competencies#
 
 ✅ End-to-end product development – from hypothesis to implementation (Agile, Scrum, CJM)
 
@@ -28,7 +28,7 @@ In my free time, I dive deeper into ML, experiment with data visualization, and 
 
 This repository demonstrates my data analysis capabilities and ongoing learning journey in data and product analytics.
 
-#Education
+#Education#
 
 Omsk State Pedagogical University: BA in Applied Psychology
 
@@ -41,7 +41,7 @@ Management: International Institute of Management LINK
 Data Analytics: Financial University under the Government of the Russian Federation, Moscow
 
 
-#Coursework:
+#Coursework:#
 
 Algorithms & Data Structures
 
@@ -55,7 +55,7 @@ SQL Interactive Trainer
 
 Statistics Fundamentals (Stepik)
 
-#Let's Connect:
+#Let's Connect:#
  - Email: ev_pozdnyakova@mail.ru
  - LinkedIn: linkedin.com/in/elena-pozdnyakova-pev
 
